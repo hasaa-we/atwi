@@ -1,0 +1,5 @@
+{
+  "name": "zenxo AI",
+  "description": "A professional AI-powered video dubbing studio. Upload a video, transcribe, translate, and synthesize high-quality dubbed audio using Gemini 2.5 Flash and TTS models.",
+  "requestFramePermissions": []
+}
